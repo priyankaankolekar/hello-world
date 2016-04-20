@@ -1,2 +1,3 @@
 # hello-world
-starting with github
+
+"Ah - so this is GitHub", sighed the lone engineer sitting in a cubicle getting bored. She fervently hoped things would get more adventurous and exciting. Now she waits...
